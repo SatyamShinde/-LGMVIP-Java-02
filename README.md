@@ -1,6 +1,6 @@
 **LGMVIP-Java-02**
 
-**TIC-TAC-TOE GAME**__
+**_TIC-TAC-TOE GAME_**
 
 Tic-Tac-Toe is a fun game that two players can play together. It's also known as "Xs and Os." The game is usually played on a grid that has three rows and three columns, creating nine small squares in total.
 
