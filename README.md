@@ -7,4 +7,4 @@ To start, one player is "X," and the other player is "O." Players take turns put
 Tic-Tac-Toe is a simple but strategic game. Players need to think ahead to block their opponent's moves while also planning their own winning moves. 
 It's a quick and enjoyable game.
 
-THANK-YOU !!
+**THANK-YOU !!**
